@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main(){
+
+        printf("Hello World");
+        return 0;
+}
+
+// numbers are highlighed with red color: 0123456789
+// Press ctrl-Q to quit.
+// Press ctrl-S to save.
+// Press ctrl-F to search for pattern within the text
+// Matched texts are highlighted using blue color.
